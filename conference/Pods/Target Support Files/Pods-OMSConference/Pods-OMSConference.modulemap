@@ -1,0 +1,6 @@
+framework module Pods_OMSConference {
+  umbrella header "Pods-OMSConference-umbrella.h"
+
+  export *
+  module * { export * }
+}

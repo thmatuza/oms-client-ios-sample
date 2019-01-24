@@ -1,0 +1,6 @@
+framework module Pods_OMSConferenceTests {
+  umbrella header "Pods-OMSConferenceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
