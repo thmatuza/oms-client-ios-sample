@@ -7,6 +7,7 @@ It is written in Swift.
 # How to build
 ## Prerequisites
 * Replace the frameworks
+
 WebRTC and OMC frameworks are located in /libs. There are default framework builds, but you can replace them with your own framework builds. Getting information on how to build WebRTC and OMC frameworks, please refer to [oms-nativesdk](https://github.com/open-media-streamer/oms-client-native).
 
 ## Build Project
